@@ -54,7 +54,7 @@ Tickery.Ru — ticketing aggregator and secondary market startup
 Proticketing.Ru — ticketing business news resource
 
 
-# Co-owner, partner, Raum7
+### Co-owner, partner, Raum7
 Jan 2010 – Jun 2014
 
 St.Petersburg
@@ -78,9 +78,9 @@ and others.
 
 We were a team of 3 to 4. My role included sales, communication with clients, prototyping and design, some technical activities, project management (working with outsourcing webdev companies) and even accounting (a really small business we were).
 
-We were included in Tagline's rating of web studios in 2012 and receive DP.ru's diploma as a fast-rising business in 2013.
+We were included in Tagline's rating of web studios in 2012 and received DP.ru's diploma as a fast-rising business in 2013.
 
-
+### Lokolo
 
 Lokolo was a local social network for neighbours. A user would sign up using his home or work address and immediately become part of 3 communities: his or her house, street (and neighbouring streets) and district. We managed to grow the network to 50 000 users (1% population of the city).
 
@@ -97,7 +97,7 @@ My roles included:
 * Advertising (mostly online ads using vk.com, but also some offline ads)
 
 
-# Chief editor of St.Petersburg branch, Theory and practice (tandp.ru)
+### Chief editor of St.Petersburg branch, Theory and practice (tandp.ru)
 
 May 2009 – Jan 2010
 
